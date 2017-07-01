@@ -1,3 +1,7 @@
+/*
+ *  编译环境：Ubuntu gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3)
+ *  编译指令：g++  AsyncTest.cpp -o asyncDownload.out -std=c++11 -pthread
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
